@@ -1,4 +1,4 @@
-﻿namespace CSharpStudy
+﻿namespace C_Practice
 {
     internal class Program
     {
@@ -8,7 +8,7 @@
             //화면 출력하고 다음 줄로 내림
             //Console.WriteLine(args[0]);
             //Console.WriteLine(args[1]);
-
+           
             //화면 출력하고 커서 유지
             Console.Write("Welcome C# =>");
             //유저가 작성한 문자입력을 받음. 엔터칠 때까지 
